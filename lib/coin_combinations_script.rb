@@ -1,3 +1,5 @@
+#!/usr/bin/ruby
+
 class Coins
   cents = Coins.new()
 
